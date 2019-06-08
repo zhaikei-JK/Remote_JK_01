@@ -4,3 +4,5 @@
 
   echo 'hello,this is the second commit';
 
+  echo 'hello,this is the sixth commit';
+
